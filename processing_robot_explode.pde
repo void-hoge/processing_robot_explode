@@ -1,6 +1,3 @@
-//processing_robot_class
-//Created by Mugi Noda on 2019/06/06.
-//Copyright (c) 2019 Mugi Noda.
 float backgroundR = random(0, 255);
 float backgroundG = random(0, 255);
 float backgroundB = random(0, 255);
